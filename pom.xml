@@ -14,7 +14,7 @@
 	<name>note-app</name>
 	<description>Note app</description>
 	<properties>
-		<java.version>9</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -92,7 +92,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.0</version>
 				<configuration>
-					<release>7</release>
+					<release>11</release>
 				</configuration>
 			</plugin>
 			<plugin>
